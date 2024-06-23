@@ -1,0 +1,8 @@
+Postgres cluster chatgpt-telegram-bot-234-new-postgress created
+  Username:    postgres
+  Password:    B5GRJVA9fhynRgf
+  Hostname:    chatgpt-telegram-bot-234-new-postgress.internal
+  Flycast:     fdaa:9:13d9:0:1::14
+  Proxy port:  5432
+  Postgres port:  5433
+  Connection string: postgres://postgres:B5GRJVA9fhynRgf@chatgpt-telegram-bot-234-new-postgress.flycast:5432
